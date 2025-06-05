@@ -62,9 +62,11 @@
 ---
 
 ## 📖 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
-</p>
+<h3 align="center">
+  <em>"Software is a great combination of artistry and engineering."</em><br/>
+  — Bill Gates
+</h3>
+
 
 ---
 
@@ -85,19 +87,17 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahin-siddiqui-b78527217/" target="_blank">
+  <a href="https://www.linkedin.com/in/shrushti-thakare-773466257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://www.naukri.com/code360/profile/960a52ed-4f3e-4069-bba2-a4b83e50132f" target="_blank">
+  <a href="https://www.naukri.com/code360/profile/3b6fa545-3cd0-4c7c-9994-4e58f856d5a6" target="_blank">
     <img src="https://img.shields.io/badge/Coding Ninjas-FF5722?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/shahin_143/" target="_blank">
+  <a href="https://leetcode.com/u/shrushtithakare20/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
+
 ---
 
-<p align="center">
-  Made with ❤ by <b>Shrushti Thakare</b>
-</p>
