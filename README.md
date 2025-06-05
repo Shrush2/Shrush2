@@ -1,6 +1,15 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shahin-314/shahin-314/main/github%20banner.png" alt="Banner" width="800"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <h1>Hi! I'm <span style="color:#990066">Shrushti</span><br>
+      Aspiring <span style="color:#73008c">FullStack</span> Developer</h1>
+    </td>
+    <td>
+      <img src="github banner.png" alt="Banner" width="1000" height="500">
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shrushti+Thakare;Full+Stack+Developer+from+India;React+%7C+JavaScript+%7C+C%2B%2B;Let%E2%80%99s+Build+Something+Cool!" alt="Typing SVG" />
