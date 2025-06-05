@@ -1,14 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <h1>Hi! I'm <span style="color:#990066">Shrushti</span><br>
-      Aspiring <span style="color:#73008c">FullStack</span> Developer</h1>
-    </td>
-    <td>
-      <img src="github banner.png" alt="Banner" width="1000" height="500">
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img src="Add a heading.png" alt="Banner" width="800"/>
+</div>
 
 
 <p align="center">
