@@ -4,8 +4,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shrushti+Thakare;Full+Stack+Developer+from+India;React+%7C+JavaScript+%7C+C%2B%2B;Let%E2%80%99s+Build+Something+Cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shrushti+Thakare;Full+Stack+Developer+from+India;React+%7C+JavaScript+%7C+Java;Let%E2%80%99s+Build+Something+Cool!" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shrush2&label=Profile%20views&color=0e75b6&style=flat" alt="Shrush2" />
